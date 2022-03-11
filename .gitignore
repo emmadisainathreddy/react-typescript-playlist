@@ -1,0 +1,8 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/react-query/node_modules
+/react-router/node_modules
+/react-styled-components/node_modules
+/redux-toolkit-with-ts/node_modules
+/ts-practice/node_modules
